@@ -1,0 +1,7 @@
+rm -rf ./static
+mkdir static
+curl -L -o static/one.jpg https://unsplash.it/400/400/?random
+curl -L -o static/two.jpg https://unsplash.it/400/400/?random
+curl -L -o static/three.jpg https://unsplash.it/400/400/?random
+curl -L -o static/four.jpg https://unsplash.it/400/400/?random
+curl -L -o static/five.jpg https://unsplash.it/400/400/?random
